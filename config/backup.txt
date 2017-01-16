@@ -1,0 +1,11 @@
+×óÏÂ½Ç£º
+<fav1_roi_x0>208</fav1_roi_x0>
+<fav1_roi_y0>346</fav1_roi_y0>
+<fav1_roi_x1>609</fav1_roi_x1>
+<fav1_roi_y1>468</fav1_roi_y1>
+
+ÖÐ¼ä£º
+<fav1_roi_x0>338</fav1_roi_x0>
+<fav1_roi_y0>311</fav1_roi_y0>
+<fav1_roi_x1>889</fav1_roi_x1>
+<fav1_roi_y1>401</fav1_roi_y1>

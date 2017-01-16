@@ -1,0 +1,2 @@
+#export DYLD_LIBRARY_PATH="/Users/fubo/lib/lib"
+g++ -std=c++11 *.cpp package_analysis/*.cpp package_tracking/cvblob/*.cpp package_tracking/*.cpp package_bgs/*.cpp -lopencv_core -lopencv_highgui -lopencv_imgproc -lopencv_imgcodecs -lopencv_video -lopencv_videoio -lopencv_features2d -lopencv_objdetect -o tracking
